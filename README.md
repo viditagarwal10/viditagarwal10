@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viditagarwal10
+- 👋 Hi, I’m Vidit Agarwal
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning React.Js
 
